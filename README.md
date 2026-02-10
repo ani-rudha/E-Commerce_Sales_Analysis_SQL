@@ -129,3 +129,7 @@ The analysis highlights opportunities to grow revenue **without increasing custo
 - Identified high-impact customer and product segments
 - Highlighted operational bottlenecks
 - Provided actionable insights for revenue growth and efficiency
+
+---
+
+⭐ *If you found this project insightful, feel free to star the repository!*
